@@ -1,13 +1,13 @@
 <h1 align="center"> Social Networking API 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/social-network-api" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/social-network-api"  />
-    <img src="https://img.shields.io/github/issues/jpd61/social-network-api" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/social-network-api" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
+    <img src="https://img.shields.io/github/repo-size/missroseblue/social-network-api" />
+    <img src="https://img.shields.io/github/languages/top/missroseblue/social-network-api"  />
+    <img src="https://img.shields.io/github/issues/missroseblue/social-network-api" />
+    <img src="https://img.shields.io/github/last-commit/missroseblue/social-network-api" >
+    <a href="https://github.com/missroseblue"><img src="https://img.shields.io/github/followers/missroseblue?style=social" target="_blank" /></a>
+    <a href="https://twitter.com/missroseblue">
+        <img alt="Twitter: missroseblue" src="https://img.shields.io/twitter/follow/missroseblue.svg?style=social" target="_blank" />
     </a>
 </p>
   
@@ -23,9 +23,9 @@
 ## Description
 
 🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
-  
+
 💻 Below is a video of the application:
-  
+
 ![social-network-api](./assets/users.gif)
 
 ## User Story
@@ -49,8 +49,9 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
-   
+
 ## Table of Contents
+
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
@@ -62,15 +63,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Questions](#questions)
 
 ## Installation
-💾   
-  
+
+💾
+
 `npm init`
 
 `npm install`
-  
+
 ## Usage
-💻   
-  
+
+💻
+
 `npm start`
 
 With Nodemon:
@@ -78,12 +81,15 @@ With Nodemon:
 `npm run watch`
 
 ## Testing
+
 ✏️
 
 No current testing
 
 ## Contributing
+
 :missroseblue: [Sandra Caceres](https://github.com/missroseblue)
 
 ## Questions
+
 ✉️ Contact me with any questions: [email](mailto:missoseblue@gmail.com) , [GitHub](https://github.com/missroseblue)<br />
