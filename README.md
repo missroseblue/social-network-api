@@ -83,7 +83,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:missroseblue: [Sandra Caceres](https://github.com/missroseblue)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:missoseblue@gmail.com) , [GitHub](https://github.com/missroseblue)<br />
